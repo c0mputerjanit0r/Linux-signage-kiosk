@@ -15,8 +15,8 @@ For questions, don't hesitate to contact the author via GitHub.
 4.) Download the kiosk script from the GitHub project and save it in the /home directory of the user account.
 5.) Open the script with Text Editor and update the [YOUR URL HERE] line with the URL of your signage website. Save and close the script.
 6.) Open a Terminal instance in the /home directory.
-7.) Allow running of the script by root via the command: sudo chmod -R 777 .
-8.) Run the kiosk scrtip via the command: sudo ./kiosk.sh
+7.) Allow running of the script by root via the command: `sudo chmod -R 777 .`
+8.) Run the kiosk scrtip via the command: `sudo ./kiosk.sh`
 9.) After the script has completed, reboot the machine.
 
 At this point the machine should reboot and upon reboot launch straight into the firefox kiosk instance with your signage site. Sit back and enjoy.
