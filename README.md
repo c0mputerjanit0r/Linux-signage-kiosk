@@ -9,4 +9,4 @@ For this solution to work, you will need to begin with the latest distribution o
 
 https://rockylinux.org/download/
 # Instructions
-Please see the instructions document for full step-by-step setup.
+Please see the [Instructions](https://github.com/c0mputerjanit0r/Linux-signage-kiosk/blob/main/Instructions.txt) document for full step-by-step setup.
