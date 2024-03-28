@@ -8,5 +8,9 @@ https://oofhours.com/
 For this solution to work, you will need to begin with the latest distribution of Rocky Linux. Download the DVD image for your applicable hardware via:
 
 https://rockylinux.org/download/
+
+This solution will also require access to a webserver to host the required Owl Carousel slide show which will be the container for our signage slides. More information on Owl Carousel can be found at the developer's website:
+
+https://owlcarousel2.github.io/OwlCarousel2/
 # Instructions
 Please see the [Instructions](https://github.com/c0mputerjanit0r/Linux-signage-kiosk/blob/main/Instructions.txt) document for full step-by-step setup.
